@@ -2,26 +2,18 @@
   <aside>
     <div class="aside_content">
     <div class="u-padded">
-      <img src="/images/remote.png" alt="LiveDeck Remote" style="border-radius:5px;" />
+      <h3>Customer Segments</h3>
     </div>
     </div>
   </aside>
   <div class="grid grid-1col grid-2col--md">
     <div>
-      <h4>Navigate</h4>
-      <p>Using the LiveDeck remote is as simple as pressing the giant next button.</p>
+      <h4>Subject Experts</h4>
+      <p>Target subject experts that regularly share and present ideas/content to a variety of audiences.</p>
     </div>
     <div>
-      <h4>Slide Notes</h4>
-      <p>Read your slide notes and edit them as you navigate through the deck.</p>
-    </div>
-    <div>
-      <h4>All Slides</h4>
-      <p>Navigate to any slide in the slide out menu and scroll through your deck. </p>
-    </div>
-    <div>
-      <h4>Deck Timer</h4>
-      <p>Track your progress with a timer at the bottom of the remote.</p>
+      <h4>Knowledge Seekers</h4>
+      <p>Individuals who are interested in learning about new ideas without the resources or desire to attend conferences.</p>
     </div>
   </div>
 </section>

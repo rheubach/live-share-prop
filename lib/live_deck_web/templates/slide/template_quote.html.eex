@@ -1,9 +1,9 @@
 <section class="slide__content template--quote">
   <div class="blockquote__image">
-    <img src="/images/rocket-dog.jpg" alt="josie" />
+    <img src="/images/ddde_image.jpg" alt="josie" />
   </div>
   <blockquote>
-    "Forget Power Point, Keynote, and Google Slides. The world needs a new shiny slide deck tool!"
-    <p class="blockquote__author">Rocket Dog Best, Best Dog Ever</p>
+    "And let's be fair, online conferences... kinda suck. It's like television: The content can be amazing, but it's one-directional. In the words of Eric Evans 'A conference is about conferring with people.'"
+    <p class="blockquote__author">@ddd_eu on twitter</p>
   </blockquote>
 </section>

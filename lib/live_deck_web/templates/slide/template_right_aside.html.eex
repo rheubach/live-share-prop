@@ -1,13 +1,13 @@
-<section class="slide__content template--right-aside">
+<section class="slide__content">
   <div>
-    <h3>An Open Source Slide Deck Project That Utilizes Elixir, Phoenix, and LiveView.</h3>
+    <h3>talk en·​gage·​ment </h3>
+    <p>a tool that allows speaker to recive different type direct responses from the audience</p>
+    <br />
+    <br />
+    <div class="grid grid-3col grid--center">
+      <img src="/images/poll-audience.jpg" alt="Live Deck Dill" />
+      <img src="/images/darw-on-screen.jpg" alt="Live Deck Dill" />
+    </div>
   </div>
-  <aside>
-    <div class="aside__content">
-    <div class="aside__image">
-      <img src="/images/dill-orange-haired.svg" alt="Live Deck Dill" />
-    </div>
-    <p>github.com<br />/gaslight/<br />live_deck</p>
-    </div>
-  </aside>
+
 </section>

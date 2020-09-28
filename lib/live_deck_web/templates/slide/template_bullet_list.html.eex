@@ -1,9 +1,9 @@
 <section class="slide__content">
-  <h2>The Ease of LiveDeck</h2>
+  <h3>Key Activities/Features</h3>
+  <br />
   <ul>
-    <li>Share Your Deck and Co-Present through the Web</li>
-    <li>Create Awesome Slides with Basic Markup</li>
-    <li>Configure Your Deck with Elixir</li>
-    <li>Switch Between Pre-Made Themes and Backgrounds</li>
+    <li>Presenters <b class="highlight">directly profiting</b> from their talks through talk tickets or ad sponsors</li>
+    <li>Leaners accessing <b class="highlight">premium conference talks</b> online on a wide range of subjects</li>
+    <li>Allow speakers to engadge their audience with real-time interactive features called "<b class="highlight">Talk Engagments</b>" </li>
   </ul>
 </section>

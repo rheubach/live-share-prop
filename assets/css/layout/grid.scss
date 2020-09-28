@@ -5,6 +5,10 @@
   display: grid;
   grid-template-columns: 1fr;
 
+  &--center {
+    align-items: center;
+  }
+
   //1 COLUMNS
   &-1col {
     -ms-grid-columns: 1fr;

@@ -1,11 +1,11 @@
 <section class="slide__content template--quote-alt">
   <div class="blockquote__top">
     <div class="blockquote__image">
-      <img src="/images/josie.jpg" alt="josie" />
+      <img src="/images/ls.jpg" alt="ls" />
     </div>
   </div>
   <blockquote>
-    "There is no other slide deck tool like LiveDeck! I know, <br />I'm a dog with plenty of presentation experience."
-    <p class="blockquote__author">Josie Pohlman, Greatest Dog Ever</p>
+    The conference industry has been up-ended in 2020.<br />We have the oppurtunity to really examine what <br />it looks like to be a virtial speaker and attendee.
+    <p class="blockquote__author">LiveShare</p>
   </blockquote>
 </section>

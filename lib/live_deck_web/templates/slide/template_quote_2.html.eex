@@ -1,0 +1,9 @@
+<section class="slide__content template--quote">
+  <div class="blockquote__image">
+    <img src="/images/acuff.jpg" alt="josie" />
+  </div>
+  <blockquote>
+    "If you are a speaker, you need a number of revenue streams."
+    <p class="blockquote__author">Jon Acuff</p>
+  </blockquote>
+</section>

@@ -1,0 +1,17 @@
+<section class="slide__content template--split">
+  <div>
+    <h3>Knowledge Seekers</h3>
+    <br />
+    <img src="/images/landing-page.jpg" alt="Live Share Talk Page"/>
+  </div>
+  <aside>
+    <div>
+      <h4>Meeting Thier Needs</h4>
+      <ul>
+        <li><p>Providing an online talk experience that does not suck</p></li>
+        <li><p>Provide multipule rememerable ways to respond to and interact with the speaker</p></li>
+        <li><p>Being able a acess premium talks without attending a conference</p></li>
+      </ul>
+    </div>
+  </aside>
+</section>

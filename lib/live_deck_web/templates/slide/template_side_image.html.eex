@@ -1,7 +1,15 @@
 <section class="slide__content template--side-image">
   <div class="copy">
-    <h4>Share on Multiple Devices</h4>
-    <p>As a web-based app,the presentation deck and the deck remote can be shared on any device.</p>
+    <h4>Types of Talk Engagements</h4>
+    <br />
+    <ul>
+      <li><p>Poll the Audience</p></li>
+      <li><p>Audience Presenter Mode</p></li>
+      <li><p>Audience Slide Draw</p></li>
+      <li><p>Audience Longform Answers</p></li>
+      <li><p>After Talk Prompt Rooms</p></li>
+      <li><p>Deck Games</p></li>
+    </ul>
   </div>
   <div class="image--right image--fill">
     <img src="/images/live-deck-on-mobile.jpg" alt="gaslight" />

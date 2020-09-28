@@ -7,36 +7,49 @@ defmodule LiveDeck.Presentations.Config do
   @default_slides [
     %{
       filename: "template_title.html",
-      title: "LiveDeck Introduction",
+      title: "LiveShare",
       background_color: "back--2"
     },
     %{
-      filename: "template_right_aside.html",
-      title: "Created with Elixir, Phoenix, and LiveView",
-      background_color: "back--3"
+      filename: "template_quote_alt.html",
+      title: "Subject Expert Quote",
+      background_color: "back--1"
     },
-    %{filename: "template_page_split.html", title: "Created For Developers"},
+    %{
+      filename: "template_competition.html",
+      title: "LiveShare Competitors",
+      background_color: "back--2"
+    },
+    %{filename: "template_2_col.html", title: "What is LiveShare", background_color: "back--1"},
+    %{filename: "template_bullet_list.html", title: "Key Features"},
+    %{
+      filename: "template_left_aside.html",
+      title: "Customer Segments",
+      background_color: "back--2"
+    },
+    %{
+      filename: "template_quote_2.html",
+      title: "Subject Expert Quote",
+      background_color: "back--1"
+    },
+    %{filename: "template_page_split.html", title: "Subject Experts"},
     %{
       filename: "template_quote.html",
-      title: "Better Than the Rest",
-      background_color: "back--3"
+      title: "Knowledge Seekers Quote",
+      background_color: "back--1"
     },
-    %{filename: "template_3_col.html", title: "What We Used"},
-    %{filename: "template_bullet_list.html", title: "Easy To Use"},
+    %{filename: "template_page_split_2.html", title: "Knowledge Seekers"},
+    %{
+      filename: "template_right_aside.html",
+      title: "Talk Engagments",
+      background_color: "back--2"
+    },
     %{
       filename: "template_side_image.html",
-      title: "Configure Your Deck",
-      background_color: "back--3"
+      title: "Talk Engagments 2",
+      background_color: "back--1"
     },
-    %{filename: "template_left_aside.html", title: "Deck remote", background_color: "back--2"},
-    %{filename: "template_2_col.html", title: "Configure Your Deck", background_color: "back--3"},
-    %{
-      filename: "template_code.html",
-      title: "Using The Config File"
-    },
-    %{filename: "template_quote_alt.html"},
-    %{filename: "template_4_col.html", title: "LiveDeck Roadmap"},
-    %{filename: "template_full_image.html"}
+    %{filename: "template_3_col.html", title: "Product Revenue", background_color: "back--2"}
   ]
   # This is for testing purposes
   @dummy List.first(@default_slides).filename

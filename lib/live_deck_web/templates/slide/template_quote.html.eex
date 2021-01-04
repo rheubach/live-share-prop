@@ -1,6 +1,6 @@
 <section class="slide__content template--quote">
   <div class="blockquote__image">
-    <img src="/images/ddde_image.jpg" alt="josie" />
+    <img src="/images/ddde_image.jpg" alt="ddd-eu" id="ddd-eu" />
   </div>
   <blockquote>
     "And let's be fair, online conferences... kinda suck. It's like television: The content can be amazing, but it's one-directional. In the words of Eric Evans 'A conference is about conferring with people.'"

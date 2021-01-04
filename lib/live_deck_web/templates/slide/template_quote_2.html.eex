@@ -1,6 +1,6 @@
 <section class="slide__content template--quote">
   <div class="blockquote__image">
-    <img src="/images/acuff.jpg" alt="josie" />
+    <img src="/images/acuff.jpg" alt="jon" id="jon" />
   </div>
   <blockquote>
     "If you are a speaker, you need a number of revenue streams."

@@ -1,0 +1,11 @@
+<section class="slide__content template--quote-alt">
+  <div class="blockquote__top">
+    <div class="blockquote__image">
+      <div class="number"><h1>2</h1></div>
+    </div>
+  </div>
+  <blockquote>
+    <h2>Customers Advocates Come From Every Level Of AN Orginization</h2>
+    <p class="blockquote__author">Don't Focus on C Suit Stakeholders Alone</p>
+  </blockquote>
+</section>

@@ -1,0 +1,11 @@
+<section class="slide__content template--quote-alt">
+  <div class="blockquote__top">
+    <div class="blockquote__image">
+      <div class="number"><h1>4</h1></div>
+    </div>
+  </div>
+  <blockquote>
+    <h2>Put The Time And Effort Nessacary For Alignment </h2>
+    <p class="blockquote__author">You Cannot Assume that Excitment for CX Equals Shared Understanding</p>
+  </blockquote>
+</section>

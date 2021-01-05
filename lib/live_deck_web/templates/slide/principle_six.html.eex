@@ -1,0 +1,11 @@
+<section class="slide__content template--quote-alt">
+  <div class="blockquote__top">
+    <div class="blockquote__image">
+      <div class="number"><h1>6</h1></div>
+    </div>
+  </div>
+  <blockquote>
+    <h2>Customer Advocacy Is Not A Pitch, It's A Lifestyle</h2>
+    <p class="blockquote__author">Orginizational Chnage Comes Through Leading By Example and Many Conversations</p>
+  </blockquote>
+</section>

@@ -33,6 +33,23 @@ blockquote,
       height: 100%;
       object-fit: cover;
     }
+
+    .number {
+      position: relative;
+      display: flex;
+      align-items: center;
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+      background-color: $color-5;
+      z-index: 800;
+      text-align: center;
+
+        h1 {
+          margin: 0 auto;
+          color: $color-6;
+        }
+    }
   }
 
   &__author {

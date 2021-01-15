@@ -1,27 +1,25 @@
 <section class="slide__content">
-  <h2>Competitors</h2>
-  <p>More than a presentation creation tool, more of a platform for virtual speaking events</p>
+  <h2>User & Customer Experience</h2>
   <br />
-  <div class="grid grid-3col">
-    <ul>
-      <li><p class="strike"><b>PowerPoint</b></p></li>
-      <li><p class="strike"><b>Keynote</b></p></li>
-      <li><p class="strike"><b>Google Slides</b></p></li>
-      <li><p class="strike"><b>Prezi</b></p></li>
-    </ul>
-    <ul>
-      <li><p><b>Zoom</b></p></li>
-      <li><p><b>EventGeek</b></p></li>
-      <li><p><b>WebEx</b></p></li>
-      <li><p><b>BusyConf</b></p></li>
-    </ul>
-    <ul>
-      <li><p><b>Twitch</b></p></li>
-      <li><p><b>Ted Talks</b></p></li>
-      <li><p><b>AdobeMax</b></p></li>
-      <li><p><b>SXSW</b></p></li>
-    </ul>
+  <br />
+  <div class="grid grid-2col">
     <div>
+      <h3>UX</h3>
+      <ul>
+        <li><p><b>Zoom</b></p></li>
+        <li><p><b>EventGeek</b></p></li>
+        <li><p><b>WebEx</b></p></li>
+        <li><p><b>BusyConf</b></p></li>
+      </ul>
+    </div>
+    <div>
+      <h3>CX</h3>
+      <ul>
+        <li><p><b>Twitch</b></p></li>
+        <li><p><b>Ted Talks</b></p></li>
+        <li><p><b>AdobeMax</b></p></li>
+        <li><p><b>SXSW</b></p></li>
+      </ul>
     </div>
   </div>
 </section>

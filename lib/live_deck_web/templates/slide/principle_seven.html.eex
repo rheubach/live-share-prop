@@ -1,11 +1,11 @@
-<section class="slide__content template--quote-alt">
+<section id="principle-2" class="slide__content template--quote-alt">
   <div class="blockquote__top">
     <div class="blockquote__image">
       <div class="number"><h1>7</h1></div>
     </div>
   </div>
   <blockquote>
-    <h2>Improve the Customer Touch Points That Are Within Your Control</h2>
-    <p class="blockquote__author">You can start tracking, measuring and improving the customer experience that you are responsible for.</p>
+    <h2>Customer Advocates<br />Understand The Cost Of<br />Orginizational Change</h2>
+    <p class="blockquote__author">An orginization wide user journey can impact time, effort, and control.</p>
   </blockquote>
 </section>

@@ -1,11 +1,11 @@
-<section class="slide__content template--quote-alt">
+<section id="principle-5" class="slide__content template--quote-alt">
   <div class="blockquote__top">
     <div class="blockquote__image">
       <div class="number"><h1>5</h1></div>
     </div>
   </div>
   <blockquote>
-    <h2>Customer Centered is Customer Driven</h2>
-    <p class="blockquote__author">You cannot have customer advocatcy without listening and empathy.</p>
+    <h2>Customer Advocates<br />Match Thier Buissness Needs<br />with Customer Needs</h2>
+    <p class="blockquote__author"></p>
   </blockquote>
 </section>

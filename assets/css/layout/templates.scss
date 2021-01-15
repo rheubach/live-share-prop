@@ -181,10 +181,15 @@
   &--quote-alt {
       grid-gap: 0;
     display: grid;
-      grid-template-rows: 50vh 50vh;
+      grid-template-rows: 40vh 60vh;
       align-items: center;
     margin: -5vh 0;
     padding: 0;
+
+    blockquote {
+      transform: translateY(100px);
+      animation: quoteUp 1s  ease-out forwards;
+    }
 
     .blockquote__top {
       position: relative;
@@ -194,15 +199,17 @@
       &::before {
         -webkit-clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
         position: absolute;
-        top: 0;
-        left: 0;
+        top: -100%;
+        left: 50%;
         width: 100%;
         height: 100%;
         background-color: $color-1;
+        transform: translateX(-50%);
         text-align: center;
         clip-path: polygon(0 0, 100% 0, 100% 66%, 0 100%);
         content: '';
-        }
+        animation: altIn 0.5s ease-out forwards;
+      }
 
       .blockquote__image {
         position: absolute;
@@ -211,6 +218,11 @@
         width: 300px;
         height: 300px;
         transform: translateX(-50%);
+
+        .number {
+          transform: scale(0.4, 0.4);
+          animation: imagePop 1s ease-out forwards;
+        }
       }
     }
 
@@ -230,4 +242,19 @@
 //COLUMN ULITITIES
 .col--center {
   align-self: center;
+}
+
+@keyframes altIn {
+  0% {top: -100%;}
+  100% {top: 0;}
+}
+
+@keyframes imagePop {
+  0% {transform: scale(0.4, 0.4);}
+  100% {transform: scale(1.0, 1.0);}
+}
+
+@keyframes quoteUp {
+  0% {transform: translateY(100px);}
+  100% {transform: translateY(0px);}
 }

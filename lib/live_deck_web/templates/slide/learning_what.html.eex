@@ -1,0 +1,24 @@
+<section class="slide__content u-center">
+  <h2 class="u-left">Learning About Our Customers</h2>
+  <br />
+  <br />
+  <div class="grid grid-2col">
+    <div>
+      <ul class="u-left">
+        <li><p><b>Who they are?</b></p></li>
+        <li><p><b>What are their needs?</b></p></li>
+        <li><p><b>How do they feel about these needs?</b></p></li>
+        <li><p><b>What other struggles do they have?</b></p></li>
+      </ul>
+    </div>
+    <div>
+      <ul class="u-left">
+        <li><p><b>How does your solution(s) impact thier needs?</b></p></li>
+        <li><p><b>How do they struggle with your solution(s)?</b></p></li>
+        <li><p><b>How do they feel about your brand?</b></p></li>
+        <li><p><b>How do they prefer to interact?</b></p></li>
+      </ul>
+    </div>
+  </div>
+
+</section>

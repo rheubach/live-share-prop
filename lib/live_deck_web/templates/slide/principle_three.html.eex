@@ -1,11 +1,11 @@
-<section class="slide__content template--quote-alt">
+<section id="principle-3" class="slide__content template--quote-alt">
   <div class="blockquote__top">
     <div class="blockquote__image">
       <div class="number"><h1>3</h1></div>
     </div>
   </div>
   <blockquote>
-    <h2>Advocate for Stradgey and Principles </h2>
-    <p class="blockquote__author">Not Advocating for Solutions</p>
+    <h2>Customer Advocates<br />Advacate For Problem Solving</h2>
+    <p class="blockquote__author">Identifying the most destructive problems for customers is just as important as finding the right solution.</p>
   </blockquote>
 </section>

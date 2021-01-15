@@ -1,11 +1,11 @@
-<section class="slide__content template--quote-alt">
+<section id="principle-8" class="slide__content template--quote-alt">
   <div class="blockquote__top">
     <div class="blockquote__image">
       <div class="number"><h1>8</h1></div>
     </div>
   </div>
   <blockquote>
-    <h2>Practice Positive CX In The Little Things</h2>
+    <h2>Customer Advocates<br />Practice These Principles Daily</h2>
     <p class="blockquote__author"></p>
   </blockquote>
 </section>

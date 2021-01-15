@@ -1,11 +1,11 @@
-<section class="slide__content template--quote-alt">
+<section id="principle-3" class="slide__content template--quote-alt">
   <div class="blockquote__top">
     <div class="blockquote__image">
       <div class="number"><h1>1</h1></div>
     </div>
   </div>
   <blockquote>
-    <h2>Great Customer Advocates Create Other Advocates</h2>
-    <p class="blockquote__author">Lone Wolf Inititives Fail and Die Tragic Deaths</p>
+    <h2>Customer Advocates<br />Are Continualy Learning<br /> About Their Customers</h2>
+    <p class="blockquote__author">Customer centered thinking is customer driven</p>
   </blockquote>
 </section>

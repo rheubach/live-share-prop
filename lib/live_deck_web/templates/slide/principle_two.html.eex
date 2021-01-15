@@ -1,11 +1,11 @@
-<section class="slide__content template--quote-alt">
+<section id="principle-4" class="slide__content template--quote-alt">
   <div class="blockquote__top">
     <div class="blockquote__image">
       <div class="number"><h1>2</h1></div>
     </div>
   </div>
   <blockquote>
-    <h2>Customers Advocates Come From Every Level Of AN Orginization</h2>
-    <p class="blockquote__author">Don't Focus on C Suit Stakeholders Alone</p>
+    <h2>Customer Advocates<br />Are Influenced By Their<br />Own Expereinces As Customers</h2>
+    <p class="blockquote__author">Past customers experiences with strong brands can be the best case for CX.</p>
   </blockquote>
 </section>

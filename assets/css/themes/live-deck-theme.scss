@@ -33,6 +33,9 @@ h1, h2, h3, h4, h5 {
   font-family: $live-deck-secondary;
 }
 
+h2, h3 {
+  color: $color-7;
+}
 
 .subtitle {
   font-family: $live-deck-main;
@@ -54,13 +57,13 @@ img {
 
 blockquote,
 .blockquote {
-  color: $color-8;
+  color: $color-7;
   &::before {
     background-color: $color-5;
   }
 
   p {
-    color: $color-7;
+    color: $color-8;
   }
 
   &__image {
@@ -79,6 +82,7 @@ blockquote,
 
 ul {
   li {
+    font-size: 0.9em;
     &::before {
       background-color: $color-5;
     }
@@ -223,9 +227,17 @@ body.back--2 {
   }
 
   .template--quote-alt {
-    .blockquote__top::before {
-      animation: none;
-      background:  rgba($color-1, 0.1);
+    .blockquote__top{
+      &::before {
+        background:  rgba($color-6, 1.0);
+      }
+
+      .number {
+        background-color: $color-5;
+        h1 {
+          color: $color-1;
+        }
+      }
     }
   }
 }

@@ -7,17 +7,97 @@ defmodule LiveDeck.Presentations.Config do
   @default_slides [
     %{
       filename: "template_title.html",
-      title: "LiveShare",
+      title: "Cutomer Advocatcy",
       background_color: "back--2"
     },
     %{
-      filename: "template_quote_alt.html",
+      filename: "template_full_image.html",
+      title: "Team Gaslight",
+      background_color: "back--1"
+    },
+    %{
+      filename: "orginization_wide_user_journey.html",
+      title: "Orginization Wide",
+      background_color: "back--2"
+    },
+    %{
+      filename: "orginization_web.html",
+      title: "Orginization Web",
+      background_color: "back--2"
+    },
+    %{
+      filename: "orginization_alone.html",
+      title: "Orginization Web",
+      background_color: "back--2"
+    },
+    %{
+      filename: "orginization_change.html",
+      title: "Orginization Change",
+      background_color: "back--2"
+    },
+    %{
+      filename: "orginization_answer.html",
+      title: "Orginization Answer",
+      background_color: "back--2"
+    },
+    %{
+      filename: "principle_one.html",
       title: "Subject Expert Quote",
       background_color: "back--1"
     },
     %{
-      filename: "template_competition.html",
-      title: "LiveShare Competitors",
+      filename: "learning_what.html",
+      title: "Customer Learning What",
+      background_color: "back--1"
+    },
+    %{
+      filename: "learning_how.html",
+      title: "Customer Learning How",
+      background_color: "back--1"
+    },
+    %{
+      filename: "learning_unique.html",
+      title: "Customer Learning Unique",
+      background_color: "back--1"
+    },
+    %{
+      filename: "learning_unfinished.html",
+      title: "Customer Learning UnFinished",
+      background_color: "back--1"
+    },
+    %{
+      filename: "principle_two.html",
+      title: "Subject Expert Quote",
+      background_color: "back--2"
+    },
+    %{
+      filename: "principle_three.html",
+      title: "Subject Expert Quote",
+      background_color: "back--1"
+    },
+    %{
+      filename: "principle_four.html",
+      title: "Subject Expert Quote",
+      background_color: "back--2"
+    },
+    %{
+      filename: "principle_five.html",
+      title: "Subject Expert Quote",
+      background_color: "back--1"
+    },
+    %{
+      filename: "principle_six.html",
+      title: "Subject Expert Quote",
+      background_color: "back--2"
+    },
+    %{
+      filename: "principle_seven.html",
+      title: "Subject Expert Quote",
+      background_color: "back--1"
+    },
+    %{
+      filename: "principle_eight.html",
+      title: "Subject Expert Quote",
       background_color: "back--2"
     },
     %{filename: "template_2_col.html", title: "What is LiveShare", background_color: "back--1"},

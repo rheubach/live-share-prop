@@ -1,0 +1,15 @@
+<section class="slide__content u-left">
+  <h2 class="u-left">The Cost of Organizational Change</h2>
+  <br />
+  <br />
+  <div class="grid grid-2col">
+    <ul class="u-left">
+      <li><p><b>Time</b></p></li>
+      <li><p><b>Effort</b></p></li>
+    </ul>
+    <ul class="u-left">
+      <li><p><b>Training</b></p></li>
+      <li><p><b>Control</b></p></li>
+    </ul>
+  </div>
+</section>

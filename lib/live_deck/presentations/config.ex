@@ -16,6 +16,21 @@ defmodule LiveDeck.Presentations.Config do
       background_color: "back--1"
     },
     %{
+      filename: "change_fear.html",
+      title: "Fear Change",
+      background_color: "back--2"
+    },
+    %{
+      filename: "change_everything.html",
+      title: "Love Change",
+      background_color: "back--2"
+    },
+    %{
+      filename: "change_hard.html",
+      title: "Change is Hard",
+      background_color: "back--2"
+    },
+    %{
       filename: "orginization_wide_user_journey.html",
       title: "Orginization Wide",
       background_color: "back--2"
@@ -63,21 +78,71 @@ defmodule LiveDeck.Presentations.Config do
     %{
       filename: "learning_unfinished.html",
       title: "Customer Learning UnFinished",
-      background_color: "back--1"
+      background_color: "back--2"
     },
     %{
       filename: "principle_two.html",
-      title: "Subject Expert Quote",
+      title: "Personal Experiences",
+      background_color: "back--2"
+    },
+    %{
+      filename: "experience_brands.html",
+      title: "Personal Experiences Brands",
+      background_color: "back--2"
+    },
+    %{
+      filename: "experience_point.html",
+      title: "Personal Experiences Point",
       background_color: "back--2"
     },
     %{
       filename: "principle_three.html",
-      title: "Subject Expert Quote",
+      title: "Problem Solving",
       background_color: "back--1"
     },
     %{
+      filename: "problem_solving_ideas.html",
+      title: "Problem Solving Ideas",
+      background_color: "back--2"
+    },
+    %{
+      filename: "problem_solving_tips.html",
+      title: "Problem Solving Tips",
+      background_color: "back--1"
+    },
+    %{
+      filename: "problem_solving_quote.html",
+      title: "Problem Solving Quote",
+      background_color: "back--1"
+    },
+    %{
+      filename: "problem_solving_oriantation.html",
+      title: "Problem Solving Oriantation",
+      background_color: "back--2"
+    },
+    %{
       filename: "principle_four.html",
-      title: "Subject Expert Quote",
+      title: "Track & Measure",
+      background_color: "back--2"
+    },
+    %{
+      filename: "measuring_quote.html",
+      title: "Track & Measuring Quote",
+      background_color: "back--2"
+    },
+    %{
+      filename: "measuring_goal.html",
+      title: "Track & Measuring Goal",
+      background_color: "back--2"
+    },
+    %{
+      filename: "measuring_methods.html",
+      title: "Track & Measuring Methods",
+      background_color: "back--2"
+    },
+    %{
+      filename: "measuring_simple.html",
+      title: "Keep Measuring Simple",
       background_color: "back--2"
     },
     %{
@@ -86,8 +151,33 @@ defmodule LiveDeck.Presentations.Config do
       background_color: "back--1"
     },
     %{
+      filename: "buisness_quote.html",
+      title: "Buisness Goals Quote",
+      background_color: "back--1"
+    },
+    %{
+      filename: "buisness_goals.html",
+      title: "Know Your Buisness Goals",
+      background_color: "back--1"
+    },
+    %{
+      filename: "buisness_viable.html",
+      title: "Is The Solution Buisness Viable",
+      background_color: "back--2"
+    },
+    %{
       filename: "principle_six.html",
       title: "Subject Expert Quote",
+      background_color: "back--2"
+    },
+    %{
+      filename: "orginization_web.html",
+      title: "Orginization Web",
+      background_color: "back--2"
+    },
+    %{
+      filename: "orginization_too_small.html",
+      title: "No Touch Point Too Small",
       background_color: "back--2"
     },
     %{
@@ -96,40 +186,30 @@ defmodule LiveDeck.Presentations.Config do
       background_color: "back--1"
     },
     %{
+      filename: "cost.html",
+      title: "The Cost of Change",
+      background_color: "back--1"
+    },
+    %{
       filename: "principle_eight.html",
       title: "Subject Expert Quote",
       background_color: "back--2"
     },
-    %{filename: "template_2_col.html", title: "What is LiveShare", background_color: "back--1"},
-    %{filename: "template_bullet_list.html", title: "Key Features"},
     %{
-      filename: "template_left_aside.html",
-      title: "Customer Segments",
+      filename: "determind_goal.html",
+      title: "Determined Goal",
       background_color: "back--2"
     },
     %{
-      filename: "template_quote_2.html",
-      title: "Subject Expert Quote",
-      background_color: "back--1"
-    },
-    %{filename: "template_page_split.html", title: "Subject Experts"},
-    %{
-      filename: "template_quote.html",
-      title: "Knowledge Seekers Quote",
-      background_color: "back--1"
-    },
-    %{filename: "template_page_split_2.html", title: "Knowledge Seekers"},
-    %{
-      filename: "template_right_aside.html",
-      title: "Talk Engagments",
+      filename: "determined_quote.html",
+      title: "Determined Quote",
       background_color: "back--2"
     },
     %{
-      filename: "template_side_image.html",
-      title: "Talk Engagments 2",
+      filename: "template_full_image_2.html",
+      title: "Beau @ Gaslight",
       background_color: "back--1"
-    },
-    %{filename: "template_3_col.html", title: "Product Revenue", background_color: "back--2"}
+    }
   ]
   # This is for testing purposes
   @dummy List.first(@default_slides).filename
@@ -165,12 +245,36 @@ defmodule LiveDeck.Presentations.Config do
     end)
   end
 
-  defp notes(for: @dummy) do
-    "Hi. I am your notes."
+  defp notes(for: "change_hard.html") do
+    "Personal Chnage is hard. Orginizational Chnage is Harder."
   end
 
-  defp notes(for: "template_2_col.html") do
-    "I am some more notes for your reading pleasure while you are presenting."
+  defp notes(for: "principle_one.html") do
+    "Customer centered thinking is customer driven. We replace our assumptions with understanding"
+  end
+
+  defp notes(for: "principle_two.html") do
+    "Past customers experiences with strong brands can be the best case for CX."
+  end
+
+  defp notes(for: "experience_brands.html") do
+    "Talk about Chick-fil-A and Movie Rental Story"
+  end
+
+  defp notes(for: "experience_three.html") do
+    "Identifying the most destructive problems for customers is just as important as finding the right solution."
+  end
+
+  defp notes(for: "experience_six.html") do
+    "Great Customer Advocates Create More Customer Advocates"
+  end
+
+  defp notes(for: "experience_seven.html") do
+    "An orginization wide user journey can impact time, effort, and control."
+  end
+
+  defp notes(for: "experience_seven.html") do
+    "An orginization wide user journey can impact time, effort, and control."
   end
 
   defp notes(_), do: ""

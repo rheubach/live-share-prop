@@ -1,0 +1,19 @@
+<section class="slide__content u-left">
+  <h2 class="u-left">Measuring Customer Experience</h2>
+  <br />
+  <br />
+  <div class="grid grid-2col">
+    <ul class="u-left">
+      <li><p><b>Net Promoter Score (NPS)</b></p></li>
+      <li><p><b>Customer Satisfaction (CSAT)</b></p></li>
+      <li><p><b>Customer Effort Score</b></p></li>
+      <li><p><b>Customer Churn Rate</b></p></li>
+    </ul>
+    <ul class="u-left">
+      <li><p><b>Customer Retention Rate</b></p></li>
+      <li><p><b>Customer Lifetime Value</b></p></li>
+      <li><p><b>Customer Support Tickets</b></p></li>
+      <li><p><b>Feature Usage</b></p></li>
+    </ul>
+  </div>
+</section>

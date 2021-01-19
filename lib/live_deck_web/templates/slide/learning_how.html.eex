@@ -1,20 +1,20 @@
 <section class="slide__content u-left">
-  <h2>Learning About Our Customers</h2>
+  <h2>How To Learn About Your Customers</h2>
   <br />
   <br />
   <div class="grid grid-2col">
     <div>
       <ul>
+        <li><p><b>Customer Interviews</b></p></li>
         <li><p><b>Physical Observation</b></p></li>
         <li><p><b>Surveys</b></p></li>
-        <li><p><b>Customer Interviews</b></p></li>
       </ul>
     </div>
     <div>
       <ul>
-        <li><p><b>Product Testing / User Testing</b></p></li>
-        <li><p><b>Tracking Anayltics</b></p></li>
-        <li><p><b>Survey Groups</b></p></li>
+        <li><p><b>Product / User Testing</b></p></li>
+        <li><p><b>Tracking Analytics</b></p></li>
+        <li><p><b>Customer Journey Mapping</b></p></li>
       </ul>
     </div>
   </div>

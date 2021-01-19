@@ -1,5 +1,5 @@
 <section class="slide__content u-center">
-  <h2 class="u-left">Learning About Our Customers</h2>
+  <h2 class="u-left">What Are We Leanring</h2>
   <br />
   <br />
   <div class="grid grid-2col">
@@ -13,7 +13,7 @@
     </div>
     <div>
       <ul class="u-left">
-        <li><p><b>How does your solution(s) impact thier needs?</b></p></li>
+        <li><p><b>How does your solution(s) impact their needs?</b></p></li>
         <li><p><b>How do they struggle with your solution(s)?</b></p></li>
         <li><p><b>How do they feel about your brand?</b></p></li>
         <li><p><b>How do they prefer to interact?</b></p></li>

@@ -1,0 +1,9 @@
+<section class="slide__content template--quote">
+  <div class="blockquote__image">
+    <img src="/images/ddde_image.jpg" alt="ddd-eu" id="ddd-eu" />
+  </div>
+  <blockquote>
+    "This means that we can afford the cost of building and provisioning the product and costs to market and sell the product. It needs to be something our sales force is capable of selling. It means that the solution needs to also work for our business development partners. It needs to work for our legal colleagues. It needs to be consistent with our company's brand promise. These techniques are about validating these types of risk."
+    <p class="blockquote__author">Marty Cagan from Inspired</p>
+  </blockquote>
+</section>

@@ -1,0 +1,9 @@
+<section class="slide__content template--quote">
+  <div class="blockquote__image">
+    <img src="/images/chnage-by-design.jpg" alt="ddd-eu" id="ddd-eu" />
+  </div>
+  <blockquote>
+    "Prototyping at work is giving from to idea, allowing us to learn form it, evaluate it against others, and improve upon it."
+    <p class="blockquote__author">Tim Brown from Change by Design</p>
+  </blockquote>
+</section>

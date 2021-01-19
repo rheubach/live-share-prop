@@ -1,0 +1,31 @@
+<section class="slide__content u-left">
+  <h2 class="u-left">Brands You Might Have Experience With</h2>
+  <br />
+  <br />
+  <div class="grid grid-3col">
+    <div>
+      <ul class="u-left">
+        <li><p><b>Nordstrom</b></p></li>
+        <li><p><b>Chick-fil-A</b></p></li>
+        <li><p><b>Lyft</b></p></li>
+        <li><p><b>Amazon</b></p></li>
+      </ul>
+    </div>
+    <div>
+      <ul class="u-left">
+        <li><p><b>Casper</b></p></li>
+        <li><p><b>Apple</b></p></li>
+        <li><p><b>IKEA</b></p></li>
+        <li><p><b>Southwest</b></p></li>
+      </ul>
+    </div>
+    <div>
+      <ul class="u-left">
+        <li><p><b>Hilton</b></p></li>
+        <li><p><b>USAA</b></p></li>
+        <li><p><b>Ancestry DNA</b></p></li>
+        <li><p><b>Netflix</b></p></li>
+      </ul>
+    </div>
+  </div>
+</section>

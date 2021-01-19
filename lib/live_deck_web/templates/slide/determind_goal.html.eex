@@ -1,0 +1,16 @@
+<section class="slide__content u-center">
+  <div class="grid grid-2col">
+    <div>
+      <ul>
+        <h2>Lasting<br />Change<br />Takes</h2>
+        <h1>Time</h1>
+      </ul>
+    </div>
+    <div>
+      <ul>
+        <h2>Customer<br />Advocacy<br />Takes</h2>
+        <h1>Courage</h1>
+      </ul>
+    </div>
+  </div>
+</section>

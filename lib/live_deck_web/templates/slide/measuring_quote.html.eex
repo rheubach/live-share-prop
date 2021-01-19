@@ -1,0 +1,9 @@
+<section class="slide__content template--quote">
+  <div class="blockquote__image">
+    <img src="/images/just-enough.jpg" alt="just enough" id="ddd-eu" />
+  </div>
+  <blockquote>
+    "Research is simply systematic inquirey. You want to know more about a paticular topic, so you go through a process to increase your knowledge. The type of process depends on who you are and what you need to know."
+    <p class="blockquote__author">Erika Hall from Just Enough Research</p>
+  </blockquote>
+</section>

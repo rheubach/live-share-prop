@@ -1,0 +1,18 @@
+<section class="slide__content u-center">
+  <div class="grid grid-2col">
+    <div>
+      <ul>
+        <h2>Track</h2>
+        <h1>Problems</h1>
+        <h2>In Your Customer's Journey</h2>
+      </ul>
+    </div>
+    <div>
+      <ul>
+        <h2>Measure The</h2>
+        <h1>Success</h1>
+        <h2>Of A Solution</h2>
+      </ul>
+    </div>
+  </div>
+</section>

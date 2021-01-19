@@ -26,6 +26,12 @@ body {
   animation: slideIn 0.5s ease forwards;
 }
 
+.org__web {
+  box-shadow: none !important;
+  width: 950px;
+  margin: 0 auto -10rem;
+}
+
 //TYPE OVERIDES
 h1, h2, h3, h4, h5 {
   font-family: $live-deck-main;
@@ -181,9 +187,13 @@ body.back--2 {
 
   blockquote,
   .blockquote {
-
+    color: $color-2;
     &::before {
-      background: $color-2;
+      background: $color-5;
+    }
+
+    &__author {
+      color: $color-5;
     }
   }
 

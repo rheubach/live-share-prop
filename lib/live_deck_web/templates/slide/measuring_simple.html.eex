@@ -1,0 +1,10 @@
+<section class="slide__content u-left">
+  <h2 class="u-left">Keep It Simple</h2>
+  <br />
+  <br />
+  <ul class="u-left">
+    <li><p><b>Start with something you can measure yourself</b></p></li>
+    <li><p><b>Use a metric that can clearly show improvement</b></p></li>
+    <li><p><b>Use a long form metric that can help identify problems</b></p></li>
+  </ul>
+</section>

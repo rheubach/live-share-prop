@@ -1,3 +1,6 @@
-<section class="slide__content">
-  <h2>Customer Learning is Never Complete</h2>
+<section class="slide__content u-center">
+  <img src="/images/unfinished.gif" alt="Unfinished" width="550px" style="margin:0 auto 3em;" />
+  <h2>Customer Learning Is</h2>
+  <h1>Never</h1>
+  <h2>Complete</h2>
 </section>
